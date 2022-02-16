@@ -1,4 +1,4 @@
-# Investing-in-the-Future
+# Investing in the Future
 Primary school is the foundation for people to express their intellectual capabilities socially and academically. Exploring the completion rate, enrollment and government expenditure on primary education in a country helps us answer some of the following questions: “Does primary school affect income in life?”, “Does government funding matter when choosing a school for my children?”, and most importantly, “Is primary education important?”. 
 
 This paper outlines the effects of primary school involvement on the gross national income. I used cross-sectional country level data from the World Bank database, where I collected primary school completion rate, enrollment rate, and government expenditure on primary school students per student as my independent variables. 
